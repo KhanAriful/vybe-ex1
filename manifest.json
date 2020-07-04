@@ -1,7 +1,6 @@
 {
   "short_name": "React App",
   "name": "Vybe",
-  "homepage": "https://khanariful.github.io/vybe-ex1/",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
