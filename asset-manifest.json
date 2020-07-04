@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/vybe-ex1/static/css/main.5b2287a4.chunk.css",
-    "main.js": "/vybe-ex1/static/js/main.5813840a.chunk.js",
-    "main.js.map": "/vybe-ex1/static/js/main.5813840a.chunk.js.map",
+    "main.css": "/vybe-ex1/static/css/main.7efe0d38.chunk.css",
+    "main.js": "/vybe-ex1/static/js/main.51f73596.chunk.js",
+    "main.js.map": "/vybe-ex1/static/js/main.51f73596.chunk.js.map",
     "runtime-main.js": "/vybe-ex1/static/js/runtime-main.8b757577.js",
     "runtime-main.js.map": "/vybe-ex1/static/js/runtime-main.8b757577.js.map",
     "static/css/2.272c1eed.chunk.css": "/vybe-ex1/static/css/2.272c1eed.chunk.css",
     "static/js/2.1df2cfc0.chunk.js": "/vybe-ex1/static/js/2.1df2cfc0.chunk.js",
     "static/js/2.1df2cfc0.chunk.js.map": "/vybe-ex1/static/js/2.1df2cfc0.chunk.js.map",
     "index.html": "/vybe-ex1/index.html",
-    "precache-manifest.a81e2c43196a032f2a89b97b60efee71.js": "/vybe-ex1/precache-manifest.a81e2c43196a032f2a89b97b60efee71.js",
+    "precache-manifest.90810a1bced6441036ded129dc501247.js": "/vybe-ex1/precache-manifest.90810a1bced6441036ded129dc501247.js",
     "service-worker.js": "/vybe-ex1/service-worker.js",
     "static/css/2.272c1eed.chunk.css.map": "/vybe-ex1/static/css/2.272c1eed.chunk.css.map",
-    "static/css/main.5b2287a4.chunk.css.map": "/vybe-ex1/static/css/main.5b2287a4.chunk.css.map",
+    "static/css/main.7efe0d38.chunk.css.map": "/vybe-ex1/static/css/main.7efe0d38.chunk.css.map",
     "static/js/2.1df2cfc0.chunk.js.LICENSE.txt": "/vybe-ex1/static/js/2.1df2cfc0.chunk.js.LICENSE.txt",
     "static/media/tailwind.css": "/vybe-ex1/static/media/icomoon.7a9f1843.ttf"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.8b757577.js",
     "static/css/2.272c1eed.chunk.css",
     "static/js/2.1df2cfc0.chunk.js",
-    "static/css/main.5b2287a4.chunk.css",
-    "static/js/main.5813840a.chunk.js"
+    "static/css/main.7efe0d38.chunk.css",
+    "static/js/main.51f73596.chunk.js"
   ]
 }
